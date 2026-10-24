@@ -2,7 +2,7 @@
 # Despliega a prod y corre el entrenamiento. La puerta de calidad está en
 # src/02_train.py: el alias @champion solo se mueve si el MAE mejora.
 name: CD
-
+#Test
 on:
   push:
     branches: [main]
